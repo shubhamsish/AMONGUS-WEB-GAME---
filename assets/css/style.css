@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(228, 189, 60);
+  text-align: center;
+  touch-action: manipulation;
+}
+
+h1 {
+  color: #fff;
+}
+
+p {
+  color: rgb(54, 118, 179);
+
+}
